@@ -1,4 +1,4 @@
-# Installs [ripgrep 12.1.1](https://github.com/BurntSushi/ripgrep) on [Ubuntu](https://www.ubuntu.com/)
+# Installs [ripgrep 13.0.0](https://github.com/BurntSushi/ripgrep) on [Ubuntu](https://www.ubuntu.com/)
 
 ```bash
 wget -q https://script.install.devinsideyou.com/ripgrep
@@ -9,5 +9,5 @@ sudo chmod +x ripgrep && ./ripgrep
 
 ```bash
 wget -q https://script.install.devinsideyou.com/ripgrep
-sudo chmod +x ripgrep && ./ripgrep 12.1.1
+sudo chmod +x ripgrep && ./ripgrep 13.0.0
 ```
